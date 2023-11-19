@@ -14,6 +14,7 @@ CryptoApp provides users with detailed information about various cryptocurrencie
  
 ## 🛠 Tech Used
 - CoinPaprika Api
+- Jetpack Compose
 - Kotlin
 - Repository
 - Retrofit
